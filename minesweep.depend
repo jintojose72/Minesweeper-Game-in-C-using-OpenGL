@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1189868550 source:c:\users\yashika\desktop\graphics\minesweep\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1189868550 source:c:\users\yashika\desktop\graphics\games\minesweep\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1347169016 source:c:\users\yashika\desktop\graphics\games\minesweep\prog.c
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"line.h"
+
+1339650406 c:\users\yashika\desktop\graphics\games\minesweep\algo.h
+
+1339787179 c:\users\yashika\desktop\graphics\games\minesweep\line.h
+
+1189913550 source:c:\users\aditya raj\desktop\minesweep\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1366346340 source:c:\users\aditya raj\desktop\minesweep\prog.c
+	<stdlib.h>
+	<windows.h>
+	<glut.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"line.h"
+
+1339832180 c:\users\aditya raj\desktop\minesweep\line.h
+
+1189868550 source:c:\users\jinto jose\desktop\new folder (6)\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1366366372 source:c:\users\jinto jose\desktop\new folder (6)\prog.c
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"line.h"
+
+1339787180 c:\users\jinto jose\desktop\new folder (6)\line.h
+
+1189872150 source:d:\desktop files\desk\new folder\new folder (7)\new folder (6)\main.c
+	<windows.h>
+	<gl/gl.h>
+
+1366369972 source:d:\desktop files\desk\new folder\new folder (7)\new folder (6)\prog.c
+	<stdlib.h>
+	<windows.h>
+	<GL/glut.h>
+	<stdio.h>
+	<time.h>
+	<math.h>
+	"line.h"
+
+1339790780 d:\desktop files\desk\new folder\new folder (7)\new folder (6)\line.h
+
